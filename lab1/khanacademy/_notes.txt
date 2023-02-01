@@ -1,0 +1,28 @@
+after title
+before head
+we have 'style'
+then for example h2 { color: green       rgb(0, 0, 0); 
+                    bla bla bla}
+                    body {
+                        background-colour: 
+                    }
+                    . dote for classes
+                    # for id
+                    h1 class="bla-bla-bla"
+                    h2 id="blablablA"
+                    <em> emphaty
+                    strong- жирный
+                    p - paragraph
+                    h - headers
+                    ol - ordered list
+                    ul- unordered list
+                    li - lost item
+                    img - image
+                    src- link
+                    alt - what if the picture wasnt opened
+                    width height - size
+                    br -new line
+                    <!-- comment-->
+                    font properties: "C:\Users\Толганай\Pictures\font_properties.PNG"
+
+

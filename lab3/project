@@ -130,8 +130,8 @@
       </div>
 
       <ul id="myUL">
-        <li>First item</li>
-        <li class="checked"> Second item</li>
+        <li class="checked">First item</li>
+        <li > Second item</li>
         <li>Thirrd item</li>
       </ul>
 
